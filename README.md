@@ -2,7 +2,7 @@
 
 A modern **ELT (Extract, Load, Transform)** data pipeline for e-commerce analytics, built using industry-standard tools: **dbt** for data transformation, **Snowflake** as the cloud data warehouse, and **Apache Airflow** for workflow orchestration.
 
-![Pipeline Architecture](diagram-export-12-11-2025-10_44_33-AM.png)
+![Pipeline Architecture](architecture.png)
 
 ## 📋 Overview
 

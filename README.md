@@ -206,10 +206,6 @@ schedule_interval='0 6 * * *'  # Daily at 6 AM UTC
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## 🤝 Contributing
-
-Contributions are welcome! Please feel free to submit a Pull Request.
-
 ---
 
 Built with ❄️ Snowflake, 🔧 dbt, and 🌬️ Airflow
